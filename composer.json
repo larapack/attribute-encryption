@@ -1,0 +1,15 @@
+{
+    "name": "larapack/attribute-encryption",
+    "description": "Allows you to define what attributes in your eloquent model which should be encrypted and decrypted.",
+    "keywords": ["package", "laravel", "larapack", "encryption", "decryption", "encrypt", "decrypt", "crypt", "attribute"],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "larapack/attribute-manipulation": "1.*"
+    }
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
