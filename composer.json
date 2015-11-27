@@ -6,7 +6,7 @@
     "type": "package",
     "require": {
         "larapack/attribute-manipulation": "1.*"
-    }
+    },
     "autoload": {
         "psr-4": {
             "": "src/"
